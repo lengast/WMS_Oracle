@@ -10,8 +10,7 @@ WMS system on Oracle DB + APEX. Home project
 Тех стек:
 * OracleDB + APEX
 * Бизнес логика на PL/SQL
-
-/*
+------------------------------------------------------------------------------------------------------------------------------
 Pet project WMS system for storehouse with the functionality of formation in/out order, placement in warehouese and calculate
 Full despridption (system analys, makeUp, schemes, cases, requirement) available via link https://gainful-gray-4f1.notion.site/3279adbbbc7d495eabbb123912ee0fc1
 
